@@ -5,3 +5,4 @@ change 3
 change today mode and common
 change 5 to trigger today & my trips
 change 6
+change 7 today mode and commons
