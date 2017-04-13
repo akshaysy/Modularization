@@ -18,3 +18,4 @@ change 26 today mode
 change 27 today mode and app
 change 28 today mode and app
 change 29 today mode and app
+change 30 today mode
